@@ -1,4 +1,5 @@
 
 <Version: 1.1>
-
+/data/Map001.json https://raw.githubusercontent.com/Funesto/UpdaterForProject2/main/Map001.json
+/data/Map002 
 <End of Version>
